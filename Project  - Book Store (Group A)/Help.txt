@@ -1,0 +1,15 @@
+INSTRUCTIONS                                        
+#===============================================#
+| ~ Use python IDLE to execute the program  ~               
+|================================================
+|                                                                                                                
+|!!! Error may occur :- !!!                                 
+|                                                                                                                
+|1. If you changed file names or locations or deleted files           
+|2. If you entered Sql username and password wrong                 
+|3. and lastly if you don't have mysql.connector modules installed:-      
+|                                                                                                                
+|*To install listed modules*                                
+|                                                                                                                
+| -> on cmd, enter ther following command                                      
+| pip install mysql-connector                                                
